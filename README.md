@@ -1,6 +1,17 @@
-# nowted
+<div align="center">
 
-An Electron application with React
+# Nowted
+![Author](https://img.shields.io/badge/Author-Ricko%20Veriyanto-blue.svg?style=for-the-badge&logo=github)
+<p>a simple noted app built using electron & reactjs</p>
+
+</div>
+
+## Screenshot
+Slicing design from [codedesign.dev](https://codedesign.dev/challenge/nowted-app) 
+<p align="center">
+  <img alt="img" src="https://raw.githubusercontent.com/ricko-v/nowted-app/master/screenshot/Main.png"/><br/><br/>
+  <img alt="img" src="https://raw.githubusercontent.com/ricko-v/nowted-app/master/screenshot/Sample.png"/><br/><br/>
+</p>
 
 ## Recommended IDE Setup
 
